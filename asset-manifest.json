@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Synchronized-Desktop-Calendar/static/css/main.5f8665ac.css",
+    "main.js": "/Synchronized-Desktop-Calendar/static/js/main.3c1ecd7b.js",
+    "static/js/453.19a393e2.chunk.js": "/Synchronized-Desktop-Calendar/static/js/453.19a393e2.chunk.js",
+    "index.html": "/Synchronized-Desktop-Calendar/index.html",
+    "main.5f8665ac.css.map": "/Synchronized-Desktop-Calendar/static/css/main.5f8665ac.css.map",
+    "main.3c1ecd7b.js.map": "/Synchronized-Desktop-Calendar/static/js/main.3c1ecd7b.js.map",
+    "453.19a393e2.chunk.js.map": "/Synchronized-Desktop-Calendar/static/js/453.19a393e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f8665ac.css",
+    "static/js/main.3c1ecd7b.js"
+  ]
+}
